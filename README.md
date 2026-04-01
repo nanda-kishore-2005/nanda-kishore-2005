@@ -1,41 +1,52 @@
-# Hi, I'm 2300032049 👋
+# 🎮 Player 1: 2300032049
 
-FULL STACK DEVELOPER
+> FULL STACK DEVELOPER
 
-Full Stack Developer and Computer Science student passionate about building real-world solutions. Skilled in Node.js, MongoDB, and modern web technologies, with a focus on creating scalable and user-friendly applications. Interested in leveraging technology to solve impactful problems, especially in agriculture and sustainability.
+## 🕹️ Stats
+- **Level**: MAX
+- **Class**: Developer
+- **HP**: 100/100
+- **MP**: 100/100
 
-## 💼 Experience
-- **full stack developer** at soundsid  (Mar 2025 - Aug 2025)
+## ⚔️ Equipment (Skills)
+- [x] React
+- [x] TypeScript
+- [x] HTML5
+- [x] Next.js
+- [x] Node.js
+- [x] Python
+- [x] Java
+- [x] MySQL
+- [x] PostgreSQL
+- [x] MongoDB
+- [x] AWS
+- [x] GitHub Actions
+- [x] Git
+- [x] GitHub
+- [x] Figma
+- [x] VS Code
+- [x] Postman
+- [x] REST APIs
+- [x] Vue.js
+- [x] Angular
+- [x] CSS3
+- [x] Firebase
+- [x] Redis
+- [x] PEN TEST
+- [x] Oracle
+- [x] SQLite
 
-## 🛠 Skills
-- React
-- TypeScript
-- HTML5
-- Next.js
-- Node.js
-- Python
-- Java
-- MySQL
-- PostgreSQL
-- MongoDB
-- AWS
-- GitHub Actions
-- Git
-- GitHub
-- Figma
-- VS Code
-- Postman
-- REST APIs
-- Vue.js
-- Angular
-- CSS3
-- Firebase
-- Redis
-- PEN TEST
-- Oracle
-- SQLite
+## 🗺️ Quest Log (Experience)
+### 🛡️ full stack developer @ soundsid 
+- **Mission Duration**: Mar 2025 - Aug 2025
+- **Loot**: Experience Points +1000
 
-## 🔗 Connect with me
-- [Github](https:&#x2F;&#x2F;github.com&#x2F;nanda-kishore-2005)
-- [Linkedin](www.linkedin.com&#x2F;in&#x2F;nanda-kishore-manne)
-- [Website](https:&#x2F;&#x2F;nandakishoremanne.vercel.app&#x2F;)
+## 🏆 Achievements
+### 🌟 Hotel Management System 
+- A web-based Hotel Management System that enables users to book rooms, check availability, and manage reservations. It also provides admin features to handle room details, customer data, and booking operations efficiently.
+- [View Replay]()
+
+## 📡 Multiplayer (Connect)
+- Github: https:&#x2F;&#x2F;github.com&#x2F;nanda-kishore-2005
+- Linkedin: www.linkedin.com&#x2F;in&#x2F;nanda-kishore-manne
+- Website: https:&#x2F;&#x2F;nandakishoremanne.vercel.app&#x2F;
